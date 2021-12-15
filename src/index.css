@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    background: #1b1c1e;
+}
+
+ul li {
+    list-style: none;
+}

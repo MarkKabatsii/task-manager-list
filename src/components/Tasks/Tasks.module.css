@@ -1,0 +1,10 @@
+.task-wrapper {
+    width: 50rem;
+    height: 40rem;
+    margin-top: 5rem;
+    overflow: scroll;
+}
+
+.task-list {
+
+}

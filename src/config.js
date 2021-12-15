@@ -1,0 +1,1 @@
+export const API_URL = 'https://task-list-38001-default-rtdb.europe-west1.firebasedatabase.app/task.json'
