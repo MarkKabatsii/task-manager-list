@@ -1,2 +1,1 @@
-# Task list with Firebase
-[Demo](https://markkabatsii.github.io/task-manager-list)
+# [Task list with Firebase](https://markkabatsii.github.io/task-manager-list)
